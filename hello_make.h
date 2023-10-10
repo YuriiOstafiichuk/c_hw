@@ -1,7 +1,26 @@
-#ifndef HELLO_MAKE_H
-  #define HELLO_MAKE_H
+/* hello_make.h.  Generated from hello_make.h.in by configure.  */
+/* hello_make.h.in.  Generated from configure.ac by autoheader.  */
 
-    /*function declaration*/
-    void printfHelloMake(void);
+/* Name of package */
+#define PACKAGE "hello_world"
 
-#endif
+/* Define to the address where bug reports for this package should be sent. */
+#define PACKAGE_BUGREPORT ""
+
+/* Define to the full name of this package. */
+#define PACKAGE_NAME "hello_world"
+
+/* Define to the full name and version of this package. */
+#define PACKAGE_STRING "hello_world 0.1"
+
+/* Define to the one symbol short name of this package. */
+#define PACKAGE_TARNAME "hello_world"
+
+/* Define to the home page for this package. */
+#define PACKAGE_URL ""
+
+/* Define to the version of this package. */
+#define PACKAGE_VERSION "0.1"
+
+/* Version number of package */
+#define VERSION "0.1"
